@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/weather_website/static/css/main.c2459dd1.css",
+    "main.js": "/weather_website/static/js/main.c0c32f59.js",
+    "static/js/787.13d76ca7.chunk.js": "/weather_website/static/js/787.13d76ca7.chunk.js",
+    "static/media/Pacifico-Regular.ttf": "/weather_website/static/media/Pacifico-Regular.c0d735fc04154e03a691.ttf",
+    "index.html": "/weather_website/index.html",
+    "main.c2459dd1.css.map": "/weather_website/static/css/main.c2459dd1.css.map",
+    "main.c0c32f59.js.map": "/weather_website/static/js/main.c0c32f59.js.map",
+    "787.13d76ca7.chunk.js.map": "/weather_website/static/js/787.13d76ca7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2459dd1.css",
+    "static/js/main.c0c32f59.js"
+  ]
+}
